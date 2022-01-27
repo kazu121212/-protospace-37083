@@ -53,6 +53,8 @@ class PrototypesController < ApplicationController
 # aaa
 # bbb
 # aaa
+#bbb
+
 
   private
   def prototype_params
